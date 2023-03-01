@@ -1,0 +1,24 @@
+{
+  "name": "nats-runner-dummy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelcremer/nats-runner-dummy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcelcremer/nats-runner-dummy/issues"
+  },
+  "homepage": "https://github.com/marcelcremer/nats-runner-dummy#readme",
+  "dependencies": {
+    "nats": "^2.12.1"
+  }
+}
